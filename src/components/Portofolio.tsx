@@ -46,6 +46,14 @@ export default function Portfolio() {
           Creative
         </button>
 
+        <button>
+          Kids
+        </button>
+
+        <button>
+          Family
+        </button>
+
       </div>
 
 
@@ -54,7 +62,7 @@ export default function Portfolio() {
         <div className="photo-card tall">
 
           <img
-            src="/images/portraits/portrait1.jpg"
+            src="/images/portraits/5.jpeg"
             alt="Portrait photography by RiJ Photography"
           />
 
@@ -69,7 +77,7 @@ export default function Portfolio() {
         <div className="photo-card">
 
           <img
-            src="/images/weddings/wedding1.jpg"
+            src="/images/weddings/wedding1.jpeg"
             alt="Wedding photography by RiJ Photography"
           />
 
@@ -80,11 +88,25 @@ export default function Portfolio() {
 
         </div>
 
-
         <div className="photo-card">
 
           <img
-            src="/images/events/event1.jpg"
+            src="/images/kids/2.jpeg"
+            alt="Kids Portraits by RiJ Photography"
+          />
+
+          <div className="photo-info">
+            <span>KIDS</span>
+            <h3>Beautiful Children</h3>
+          </div>
+
+        </div>
+
+
+        <div className="photo-card tall">
+
+          <img
+            src="/images/events/event4.jpg"
             alt="Event photography by RiJ Photography"
           />
 
@@ -95,11 +117,25 @@ export default function Portfolio() {
 
         </div>
 
-
-        <div className="photo-card wide">
+        <div className="photo-card">
 
           <img
-            src="/images/creative/creative1.jpg"
+            src="/images/family/6.jpeg"
+            alt="Family photography by RiJ Photography"
+          />
+
+          <div className="photo-info">
+            <span>FAMILY</span>
+            <h3>With our Loved ones</h3>
+          </div>
+
+        </div>
+
+
+        <div className="photo-card ">
+
+          <img
+            src="/images/creative/creative2.jpeg"
             alt="Creative photography by RiJ Photography"
           />
 

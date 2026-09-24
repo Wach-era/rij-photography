@@ -10,6 +10,8 @@ const categories = [
   "Weddings",
   "Events",
   "Creative",
+  "Family",
+  "Kids"
 ];
 
 export default function PortfolioGallery() {
@@ -80,7 +82,7 @@ export default function PortfolioGallery() {
 
             <Image
               src={photo.src}
-              alt={photo.title}
+              alt = ""
               fill
               sizes="(max-width: 800px) 100vw, 33vw"
             />
@@ -90,10 +92,6 @@ export default function PortfolioGallery() {
               <span>
                 {photo.category}
               </span>
-
-              <h3>
-                {photo.title}
-              </h3>
 
             </div>
 
@@ -136,7 +134,7 @@ export default function PortfolioGallery() {
 
               <Image
                 src={selected.src}
-                alt={selected.title}
+                alt= ""
                 fill
                 sizes="90vw"
               />
@@ -149,14 +147,6 @@ export default function PortfolioGallery() {
               <span>
                 {selected.category}
               </span>
-
-              <h2>
-                {selected.title}
-              </h2>
-
-              <p>
-                {selected.description}
-              </p>
 
             </div>
 
