@@ -39,11 +39,15 @@ export default function Portfolio() {
         </button>
 
         <button>
-          Events
+          Graduation
         </button>
 
         <button>
           Creative
+        </button>
+
+        <button>
+          Corporate
         </button>
 
         <button>
@@ -106,13 +110,13 @@ export default function Portfolio() {
         <div className="photo-card tall">
 
           <img
-            src="/images/events/event4.jpg"
+            src="/images/graduation/event4.jpg"
             alt="Event photography by RiJ Photography"
           />
 
           <div className="photo-info">
-            <span>EVENTS</span>
-            <h3>Life in motion</h3>
+            <span>Graduation</span>
+            <h3>Graduations and Achievements</h3>
           </div>
 
         </div>
@@ -142,6 +146,20 @@ export default function Portfolio() {
           <div className="photo-info">
             <span>CREATIVE</span>
             <h3>Beyond the ordinary</h3>
+          </div>
+
+        </div>
+
+        <div className="photo-card wide ">
+
+          <img
+            src="/images/corporate/26.jpeg"
+            alt="Creative photography by RiJ Photography"
+          />
+
+          <div className="photo-info">
+            <span>Corporate</span>
+            <h3>Be the boss of you</h3>
           </div>
 
         </div>

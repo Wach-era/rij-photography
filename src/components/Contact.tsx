@@ -54,8 +54,8 @@ export default function Contact() {
               CALL / WHATSAPP
             </span>
 
-            <a href="tel:+254700000000">
-              +254 700 000 000
+            <a href="tel:+254712485782">
+              +254 712 485 782
             </a>
 
           </div>
@@ -81,7 +81,7 @@ export default function Contact() {
             </span>
 
             <p>
-              Nairobi, Kenya
+              Digo Road, Mombasa, Kenya
             </p>
 
           </div>

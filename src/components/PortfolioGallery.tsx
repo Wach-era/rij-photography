@@ -8,10 +8,12 @@ const categories = [
   "All",
   "Portraits",
   "Weddings",
-  "Events",
+  "Graduation",
+  "Corporate",
   "Creative",
   "Family",
-  "Kids"
+  "Kids",
+  "Commercial"
 ];
 
 export default function PortfolioGallery() {

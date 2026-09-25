@@ -21,8 +21,8 @@ export const photos: Photo[] = [
 
   {
     id: 3,
-    src: "/images/portraits/3.jpeg",
-    category: "Portraits",
+    src: "/images/corporate/3.jpeg",
+    category: "Corporate",
   },
 
   {
@@ -93,8 +93,8 @@ export const photos: Photo[] = [
   
   {
     id: 15,
-    src: "/images/portraits/15.jpeg",
-    category: "Portraits",
+    src: "/images/corporate/15.jpeg",
+    category: "Corporate",
   },
   
   {
@@ -141,26 +141,26 @@ export const photos: Photo[] = [
   
   {
     id: 23,
-    src: "/images/portraits/23.jpeg",
-    category: "Portraits",
+    src: "/images/corporate/23.jpeg",
+    category: "Corporate",
   },
 
   {
     id: 24,
-    src: "/images/portraits/24.jpeg",
-    category: "Portraits",
+    src: "/images/corporate/24.jpeg",
+    category: "Corporate",
   },
   
   {
     id: 25,
-    src: "/images/portraits/25.jpeg",
-    category: "Portraits",
+    src: "/images/corporate/25.jpeg",
+    category: "Corporate",
   },
   
   {
     id: 26,
-    src: "/images/portraits/26.jpeg",
-    category: "Portraits",
+    src: "/images/corporate/26.jpeg",
+    category: "Corporate",
   },
   
   {
@@ -333,116 +333,116 @@ export const photos: Photo[] = [
 
   {
     id: 55,
-    src: "/images/events/event1.jpg",
-    category: "Events",
+    src: "/images/graduation/event1.jpg",
+    category: "Graduation",
   },
 
   {
     id: 56,
-    src: "/images/events/event2.jpg",
-    category: "Events",
+    src: "/images/graduation/event2.jpg",
+    category: "Graduation",
   },
 
   {
     id: 57,
-    src: "/images/events/event3.jpg",
-    category: "Events",
+    src: "/images/graduation/event3.jpg",
+    category: "Graduation",
   },
 
   {
     id: 58,
-    src: "/images/events/event4.jpg",
-    category: "Events",
+    src: "/images/graduation/event4.jpg",
+    category: "Graduation",
   },
   
   {
     id: 59,
-    src: "/images/events/1.jpeg",
-    category: "Events",
+    src: "/images/graduation/1.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 60,
-    src: "/images/events/4.jpeg",
-    category: "Events",
+    src: "/images/graduation/4.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 61,
-    src: "/images/events/5.jpeg",
-    category: "Events",
+    src: "/images/graduation/5.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 62,
-    src: "/images/events/6.jpeg",
-    category: "Events",
+    src: "/images/graduation/6.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 63,
-    src: "/images/events/7.jpeg",
-    category: "Events",
+    src: "/images/graduation/7.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 64,
-    src: "/images/events/8.jpeg",
-    category: "Events",
+    src: "/images/graduation/8.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 65,
-    src: "/images/events/9.jpeg",
-    category: "Events",
+    src: "/images/graduation/9.jpeg",
+    category: "Graduation",
   },
 
   {
     id: 66,
-    src: "/images/events/10.jpeg",
-    category: "Events",
+    src: "/images/graduation/10.jpeg",
+    category: "Graduation",
   },
 
 
   {
     id: 67,
-    src: "/images/events/11.jpeg",
-    category: "Events",
+    src: "/images/graduation/11.jpeg",
+    category: "Graduation",
   },
 
 
   {
     id: 68,
-    src: "/images/events/12.jpeg",
-    category: "Events",
+    src: "/images/graduation/12.jpeg",
+    category: "Graduation",
   },
 
 
   {
     id: 69,
-    src: "/images/events/13.jpeg",
-    category: "Events",
+    src: "/images/graduation/13.jpeg",
+    category: "Graduation",
   },
 
 
   {
     id: 70,
-    src: "/images/events/14.jpeg",
-    category: "Events",
+    src: "/images/graduation/14.jpeg",
+    category: "Graduation",
   },
 
 
   {
     id: 71,
-    src: "/images/events/15.jpeg",
-    category: "Events",
+    src: "/images/graduation/15.jpeg",
+    category: "Graduation",
   },
 
 
   {
     id: 72,
-    src: "/images/events/16.jpeg",
-    category: "Events",
+    src: "/images/graduation/16.jpeg",
+    category: "Graduation",
   },
 
 
